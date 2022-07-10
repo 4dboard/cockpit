@@ -3,7 +3,7 @@
         'name' => 'agentejo/cockpit',
         'pretty_version' => 'dev-next',
         'version' => 'dev-next',
-        'reference' => '0319e48ddbe8552286af14c099047646bd913cc4',
+        'reference' => '7130df3b630162aa7e711852b06c125cd43dc276',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'agentejo/cockpit' => array(
             'pretty_version' => 'dev-next',
             'version' => 'dev-next',
-            'reference' => '0319e48ddbe8552286af14c099047646bd913cc4',
+            'reference' => '7130df3b630162aa7e711852b06c125cd43dc276',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../../',
             'aliases' => array(),
