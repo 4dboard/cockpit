@@ -60,7 +60,7 @@
 
                             <a href="@route('/')" class="uk-link-muted uk-text-bold app-name-link uk-flex uk-flex-middle">
                                 <span class="app-logo"></span>
-                                <span class="app-name">{{ $app['app.name'] }}</span>
+                                <span class="app-name">yxorP</span>
                             </a>
 
                             <div class="uk-dropdown app-panel-dropdown uk-dropdown-close">
